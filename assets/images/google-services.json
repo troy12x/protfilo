@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "766941651184",
+    "firebase_url": "https://marketplace-463f2-default-rtdb.firebaseio.com",
+    "project_id": "marketplace-463f2",
+    "storage_bucket": "marketplace-463f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766941651184:android:c911139f371c21794fa235",
+        "android_client_info": {
+          "package_name": "com.silx.mento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766941651184-9j5sbis6h9c5m8jjfgq4u1im1qcm8t9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIdqWiqDCoqhkIMSGctC5KqJG_CSXwYAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766941651184-9j5sbis6h9c5m8jjfgq4u1im1qcm8t9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766941651184:android:0b049079b477ec084fa235",
+        "android_client_info": {
+          "package_name": "com.silx.mentox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766941651184-9j5sbis6h9c5m8jjfgq4u1im1qcm8t9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIdqWiqDCoqhkIMSGctC5KqJG_CSXwYAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766941651184-9j5sbis6h9c5m8jjfgq4u1im1qcm8t9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
